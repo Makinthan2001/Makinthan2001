@@ -4,10 +4,11 @@
 🌱 I’m currently learning Computer Science and Technology at Uva Wellasa University of Srilanka
 
 - Social Presence
- <br /> [LinkedIn](https://www.linkedin.com/in/s-makinthan-0a694931b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br/> [Instagram](https://www.instagram.com/madhan__mdn?igsh=MXF3OG53emkxOGd2dA==) <br/>
+ <br />[<img height="40" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>](https://www.linkedin.com/in/s-makinthan-0a694931b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)</br>
+[<img height="40" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>](https://www.instagram.com/madhan__mdn?igsh=MXF3OG53emkxOGd2dA==)
  
 ### I code in
- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+ <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://www.php.net//images/logos/new-php-logo.svg"/>
 
 ### IDE and Tools I Use
