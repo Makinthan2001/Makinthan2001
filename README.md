@@ -1,6 +1,6 @@
 ## Hi there 👋 It's Makinthan
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                 
+<img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">                                                 
 🌱 I’m currently learning Computer Science and Technology at Uva Wellasa University of Srilanka
 
 - Social Presence
