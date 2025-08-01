@@ -17,8 +17,9 @@
 [![makinthan2001 activity graph](https://github-readme-activity-graph.vercel.app/graph?username=makinthan2001&bg_color=121112&color=f5f0f4&line=31d834&point=f5f4f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Makinthan2001&show_icons=true&theme=radical)</br>
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Makinthan2001&show_icons=true&theme=radical)</br>
 ![](https://nirzak-streak-stats.vercel.app/?user=Makinthan2001&theme=radical&hide_border=false)
 
 ## 🏆 GitHub Trophies
