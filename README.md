@@ -18,11 +18,14 @@
 
 
 ### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Makinthan2001&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Makinthan2001&show_icons=true&theme=radical)</br>
+![](https://nirzak-streak-stats.vercel.app/?user=Makinthan2001&theme=radical&hide_border=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Makinthan2001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 📊 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makinthan2001&layout=compact&theme=dark)](https://github.com/Makinthan2001)
+
+
 
