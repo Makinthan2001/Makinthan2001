@@ -16,8 +16,13 @@
 
 [![makinthan2001 activity graph](https://github-readme-activity-graph.vercel.app/graph?username=makinthan2001&bg_color=121112&color=f5f0f4&line=31d834&point=f5f4f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
 ### 📊 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Makinthan2001&show_icons=true&theme=radical)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Makinthan2001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ### 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makinthan2001&layout=compact&langs_count=8&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makinthan2001&layout=compact&theme=dark)](https://github.com/Makinthan2001)
+
