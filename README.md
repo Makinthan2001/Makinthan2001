@@ -14,31 +14,38 @@
 
  ## 🛠️ My Skills 
   
-<h3 align="center"><b><i>Language Stack </i></b></h3>
+<!--<h3 align="center"><b><i>Language Stack </i></b></h3>-->
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=html,css,javascript,php,c,python,java" />
+   <img src="https://skillicons.dev/icons?i=html,css,javascript,php,c,python,java,react,bootstrap,tailwind,mysql,vscode,ps,git,github" />
   </a>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="48" height="48" style="margin-left:5px;"/>
+
+  <img src="https://img.icons8.com/fluency/48/code-blocks.png" width="48" height="48" style="margin-left:5px;"/>
 </p>
 
-<h3 align="center"><b><i>Frameworks and Libraries </i></b></h3>
+<!--<p align="center">
+  <img src="https://img.shields.io/badge/Rapid%20Application%20Development-Servlet%2FSwing-orange?style=for-the-badge&logo=java" alt="RAD with Servlet/Swing" />
+</p>-->
+
+<!--<h3 align="center"><b><i>Frameworks and Libraries </i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
   </a>
-</p>
+</p>-->
 
 
-<h3 align="center"><b><i>Database Handling </i></b></h3>
+<!--<h3 align="center"><b><i>Database Handling </i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
-</p>
+</p>-->
 
 
 
-<h3 align="center"><b><i>IDEs and Design Tools</i></b></h3>
+<!--<h3 align="center"><b><i>IDEs and Design Tools</i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,ps" />
@@ -53,7 +60,7 @@
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=git,github" />
   </a>
-</p>
+</p>-->
 
 
 </br>
