@@ -19,9 +19,7 @@
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,c,python,java,react,bootstrap,tailwind,mysql,vscode,ps,git,github" />
   </a>
- <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="48" height="48" style="margin-left:5px;"/>
-
-  <img src="https://img.icons8.com/fluency/48/code-blocks.png" width="48" height="48" style="margin-left:5px;"/>
+ 
 </p>
 
 <!--<p align="center">
